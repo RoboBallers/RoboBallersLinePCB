@@ -14880,7 +14880,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical"
+		(property "Footprint" "Boost Converter:Boost_Convertor_LM2577"
 			(at 248.92 76.2 0)
 			(effects
 				(font
