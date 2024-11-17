@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KickerPad")(type "KiCad")(uri "${KIPRJMOD}/KickerPad.pretty")(options "")(descr ""))
+)
